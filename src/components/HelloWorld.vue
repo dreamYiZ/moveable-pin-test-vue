@@ -74,7 +74,7 @@
           >vue-loader</a
         >
       </li>
-      <li>
+      <li v-for="i in arr" :key="i">
         <a
           href="https://github.com/vuejs/awesome-vue"
           target="_blank"
@@ -96,8 +96,10 @@ export default {
   props: {
     msg: String,
   },
-  created() {
-    console.log("moveablePin", moveablePin);
+  data(){
+    return {
+      arr : Array.from(Array(100).keys())
+    }
   },
   mounted() {
     console.log("this", this);
