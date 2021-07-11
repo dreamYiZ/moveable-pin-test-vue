@@ -88,7 +88,8 @@
 </template>
 
 <script>
-import { moveablePin } from "local-moveable-pin";
+import { moveablePin } from "moveable-pin";
+// import { moveablePin } from "local-moveable-pin";
 import RLog from "rentoo";
 export default {
   name: "HelloWorld",
