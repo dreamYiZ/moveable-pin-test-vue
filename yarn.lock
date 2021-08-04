@@ -5464,6 +5464,11 @@ move-concurrently@^1.0.1:
     rimraf "^2.5.4"
     run-queue "^1.0.3"
 
+moveable-pin@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/moveable-pin/-/moveable-pin-1.2.4.tgz#b26206958b8005043d77085c6ef5940b4af44ed7"
+  integrity sha512-G/J8vVlqOTFXpq/UJMvod+2QnQov4LY5uD5vxrClwICMEp5j8y5oUV7fX24AQZSymR2CT4VJKvNBeZ5G3/C7Sw==
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/ms/download/ms-2.0.0.tgz?cache=0&sync_timestamp=1607433899126&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fms%2Fdownload%2Fms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
@@ -6812,6 +6817,11 @@ renderkid@^2.0.4:
     htmlparser2 "^6.1.0"
     lodash "^4.17.21"
     strip-ansi "^3.0.1"
+
+rentoo@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/rentoo/-/rentoo-1.0.6.tgz#c470e0db19dcbb8018339c6887bb8914b96adabd"
+  integrity sha512-vv7R/0wGBQUzMWKfnrAW4gQoMDYIkFBI4nnZcsjx7NN8Fp4xb1UAtFeaxy5kz+AKlst5lAd9WyQy6LYp79WO9w==
 
 repeat-element@^1.1.2:
   version "1.1.4"
